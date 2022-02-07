@@ -1,0 +1,2 @@
+- 👋 Hi, This is the SMASH Studios account for GitHub
+- 🌱 We're still learning coding and game development but we're trying our best to make some good games for you to enjoy
